@@ -1,0 +1,29 @@
+@media only screen and(max-width:987px ) and (min-width:200px){
+
+    .wdlast1 {
+        height: auto;
+        width: 38%;
+        position: sticky;
+        left: 605px;
+    }
+    .main-nav {
+        width: 568px;
+    }
+    
+    .last-img {
+        width: 170px;
+    }        
+}
+
+
+/* menu toggle button
+<script>
+function myFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script> */
